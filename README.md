@@ -1,61 +1,107 @@
-### Hola, soy Luis 👋
+# [ USER_ID: LUIS // TERMINAL_ACCESS ]
 
-Estudiante de Actuaría en la UNAM. Desarrollador enfocado en la intersección de la matemática aplicada, inteligencia artificial y el desarrollo de sistemas robustos y escalables.
+<p align="center">
+  <img src="PEGA_AQUÍ_EL_ENLACE_RAW_DE_TU_IMAGEN" alt="System Banner" width="100%">
+</p>
 
-Me especializo en construir soluciones eficientes que convierten modelos matemáticos complejos en software práctico.
+> `[STATUS DEL SISTEMA: OPERATIVO]`
+> `[UBICACIÓN: CIUDAD DE MÉXICO // DIVISIÓN DE ACTUARÍA UNAM]`
+
+### > // SINOPSIS
+
+Desarrollador y estudiante de Actuaría en la UNAM. Me especializo en conectar modelos matemáticos complejos con soluciones técnicas prácticas. Construyo sistemas robustos, optimizo tuberías de datos y actualmente me enfoco en expandir mis capacidades en Operaciones de IA y Arquitectura Cloud.
 
 ---
 
-### 💻 Tecnologías y Herramientas
+### > // LENGUAJES
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
-  <a href="https://www.soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
-
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B" alt="python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="javascript" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=E76F00" alt="java" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="typescript" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C" alt="cplusplus" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=F05138" alt="swift" /></a>
   
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
-
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://ngrok.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ngrok/ngrok-original.svg" alt="ngrok" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=239120" alt="csharp" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8" alt="go" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=DEA584" alt="rust" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4" alt="php" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=276DC3" alt="r" /></a>
+  <a href="https://www.soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=AA6746" alt="solidity" /></a>
 </p>
 
 ---
 
-### 📩 Contacto
+### > // TECNOLOGÍAS
 
-Si tienes un proyecto interesante o simplemente quieres platicar sobre datos y código, no dudes en contactarme.
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="aws" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="gcp" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=0089D6" alt="azure" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" alt="docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="kubernetes" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=623CE4" alt="terraform" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=D24939" alt="jenkins" /></a>
+  
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="pytorch" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="tensorflow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458" alt="pandas" /></a>
+  
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" alt="nodejs" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=black" alt="express" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" alt="fastapi" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20" alt="django" /></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F" alt="spring-boot" /></a>
+  
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="react" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="vue" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=DD0031" alt="angular" /></a>
+  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC" alt="tailwindcss" /></a>
+  
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=336791" alt="postgresql" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="mongodb" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" alt="redis" /></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-000000?style=flat-square&logo=apachecassandra&logoColor=1287B1" alt="cassandra" /></a>
+  
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="git" /></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=E10098" alt="graphql" /></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="unity" /></a>
+  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=unrealengine&logoColor=white" alt="unreal-engine" /></a>
+</p>
 
-* **Correo:** [tu.correo@email.com]
-* **LinkedIn:** [linkedin.com/in/tuperfil]
-* **Portafolio:** [tuportafolio.dev]
+---
+
+### > // PROYECTOS_FULL_STACK
+
+<p align="left">
+  Mi Sitio Web - Un sitio web personal minimalista.<br>
+  COVID-19 Dashboard - Un panel para rastrear la propagación del virus.<br>
+</p>
+
+---
+
+### > // PROYECTOS_CIBERSEGURIDAD
+
+<p align="left">
+  Heartbleed Exploit - Una demostración del famoso error de OpenSSL.<br>
+  SYN Flood Attack - Una simulación de un ataque de denegación de servicio.<br>
+</p>
+
+---
+
+### > // CONTACTO_TERMINAL
+
+```yaml
+# Actualiza estos datos con tu información real
+comunicaciones:
+  email: "tu.correo@email.com"
+  linkedin: "[linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)"
+  portfolio: "tuportafolio.dev"
+estado_academico:
+  institución: "UNAM"
+  carrera: "Actuaría"
+<p align="center">
+<sub>Todos los sistemas nominales. Terminal en desarrollo activo.</sub>
+</p>
