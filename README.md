@@ -13,4 +13,4 @@
 🍎 [Iniciativa de rescate de alimentos](#) &nbsp;&nbsp; 🚀 [SaaS factory](#) &nbsp;&nbsp; 🍜 [POS El Changarrín](#) 
 
 ### Contacto
-[Email](mailto:tu.correo@email.com) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/tuperfil) &nbsp;&nbsp; [Portafolio](https://tuportafolio.dev)
+[Email](mailto:luiscorttt05@gmail.com) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/cortsito)
