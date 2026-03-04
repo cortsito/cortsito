@@ -31,6 +31,7 @@
 <div align="center">
 
 | | |
+|---|---|
 | **handle** | `cortsito` |
 | **rol** | arquitecto técnico · team lead |
 | **método** | primeros principios · 20/80 · siempre |
@@ -219,6 +220,7 @@
 <br/>
 
 | | |
+|---|---|
 | **track** | McDonald's @ Feed the Future Hackathon |
 | **rol** | Arquitecto técnico + Team lead |
 | **estado** | `EN CONSTRUCCIÓN` |
