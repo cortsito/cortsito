@@ -166,7 +166,8 @@
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=10b981)
+![AWS](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?logo=linkedin-white&logoColor=0d1117)
+
 ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=34d399)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=10b981)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=34d399)
