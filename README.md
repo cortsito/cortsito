@@ -192,9 +192,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-dommvbbee-cortsitos-projects.vercel.app/api?username=cortsito&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&text_color=6ee7b7&icon_color=34d399&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats-dommvbbee-cortsitos-projects.vercel.app/api?username=cortsito&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=6ee7b7&bg_color=0d1117&langs_count=7" />
+![GitHub Streak](https://streak-stats.demolab.com?user=cortsito&theme=transparent&hide_border=true&ring=10b981&fire=34d399&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=6ee7b7&stroke=10b981)
 
 <br/><br/>
 
