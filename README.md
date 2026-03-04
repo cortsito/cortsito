@@ -239,8 +239,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=10b981)](https://linkedin.com/in/cortsito)
-[![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=34d399)](https://x.com/cortsito)
+[![LinkedIn]](https://linkedin.com/in/cortsito)
+[![X]](https://x.com/cortsito)
 
 <br/>
 
