@@ -192,7 +192,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cortsito&theme=transparent&hide_border=true&ring=10b981&fire=34d399&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=6ee7b7&stroke=10b981)
+![GitHub Streak](https://streak-stats.demolab.com?user=cortsito&theme=transparent&hide_border=true&ring=10b981&fire=34d399&currStreakNum=6ee7b7&currStreakLabel=10b981&sideNums=6ee7b7&sideLabels=10b981&dates=34d399&stroke=10b981)
 
 <br/><br/>
 
