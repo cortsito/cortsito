@@ -19,10 +19,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=10B981&center=true&vCenter=true&width=640&lines=Full-Stack+%2F%2F+AI+%26+Data+%2F%2F+Blockchain+%2F%2F+Infra;20%25+de+los+conceptos+que+desbloquean+el+80%25+del+sistema;Neo-pol%C3%ADmata+en+construcci%C3%B3n+activa;Build+first.+Understand+deeper.+Repeat.)](https://git.io/typing-svg)
 
-<br/>
 </div>
 
-<br/>
 
 ---
 
