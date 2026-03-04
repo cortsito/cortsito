@@ -239,7 +239,7 @@
 
 <br/>
 
-[![LinkedIn]](https://linkedin.com/in/cortsito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMjU2IDI1NicgZmlsbD0nIzAwMDAwMCc+PHBhdGggZmlsbD0nIzEwYjk4MScgZD0nTTIxNiAyNEg0MGExNiAxNiAwIDAgMC0xNiAxNnYxNzZhMTYgMTYgMCAwIDAgMTYgMTZoMTc2YTE2IDE2IDAgMCAwIDE2LTE2VjQwYTE2IDE2IDAgMCAwLTE2LTE2Wm0wIDE5Mkg0MFY0MGgxNzZ2MTc2Wk05NiAxMTJ2NjRhOCA4IDAgMCAxLTE2IDB2LTY0YTggOCAwIDAgMSAxNiAwWm04OCAyOHYzNmE4IDggMCAwIDEtMTYgMHYtMzZhMjAgMjAgMCAwIDAtNDAgMHYzNmE4IDggMCAwIDEtMTYgMHYtNjRhOCA4IDAgMCAxIDE1Ljc5LTEuNzhBMzYgMzYgMCAwIDEgMTg0IDE0MFptLTg0LTU2YTEyIDEyIDAgMSAxLTEyLTEyYTEyIDEyIDAgMCAxIDEyIDEyWicvPjwvc3ZnPg==)](https://linkedin.com/in/cortsito)
 [![Twitter](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=34d399&labelColor=0d1117)](https://x.com/cortsito)
 
 <br/>
