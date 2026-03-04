@@ -240,7 +240,7 @@
 <br/>
 
 [![LinkedIn]](https://linkedin.com/in/cortsito)
-[![X]](https://x.com/cortsito)
+[![Twitter](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=34d399&labelColor=0d1117)](https://x.com/cortsito)
 
 <br/>
 
