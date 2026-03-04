@@ -199,57 +199,33 @@
 
 <br/>
 
+
 ## `[ 03 ]` — PROYECTO ACTIVO
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  CibusChain                                                 │
-│  ──────────                                                 │
-│  Infraestructura tecnológica para el rescate de comida      │
-│  preparada en cadenas de fast food — conectando             │
-│  restaurantes con operaciones de rescate alimentario.       │
-│                                                             │
-│  stack   Blockchain · AI matching · FastAPI · Next.js       │
-│  track   McDonald's @ Feed the Future Hackathon             │
-│  rol     Arquitecto técnico + Team lead                     │
-│  estado  [ EN CONSTRUCCIÓN ]                                │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+### CibusChain
+
+*Infraestructura tecnológica para el rescate de comida preparada en cadenas de fast food.*
 
 <br/>
 
----
+![Blockchain](https://img.shields.io/badge/Blockchain-0d1117?style=flat-square&logoColor=10b981)
+![AI_matching](https://img.shields.io/badge/AI_matching-0d1117?style=flat-square&logoColor=34d399)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=10b981)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=34d399)
 
 <br/>
 
-## `[ 04 ]` — SISTEMA OPERATIVO
+| | |
+|---|---|
+| **track** | McDonald's @ Feed the Future Hackathon |
+| **rol** | Arquitecto técnico + Team lead |
+| **estado** | `EN CONSTRUCCIÓN` |
 
-<br/>
-
-```python
-class Cortsito:
-
-    dominios = [
-        "full-stack",
-        "ai / ml / data",
-        "blockchain / web3",
-        "infraestructura",
-        "arquitectura de sistemas",
-    ]
-
-    método   = "primeros principios · siempre"
-    estándar = "senior-level o se itera hasta lograrlo"
-
-    def approach(problema: Any) -> Solución:
-        núcleo   = destilar_primeros_principios(problema)
-        solución = construir_desde_cero(núcleo)
-        return iterar(solución, hasta="funciona de verdad")
-
-    def __repr__(self) -> str:
-        return "Construyo antes de que exista el manual."
-```
+</div>
 
 <br/>
 
@@ -259,14 +235,12 @@ class Cortsito:
 
 <div align="center">
 
-```
-"No acumulo herramientas. Entiendo sistemas."
-```
+*"No acumulo herramientas. Entiendo sistemas."*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=10b981)](https://linkedin.com/in/cortsito)
-[![X / Twitter](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=34d399)](https://x.com/cortsito)
+[![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=34d399)](https://x.com/cortsito)
 
 <br/>
 
