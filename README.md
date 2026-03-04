@@ -199,9 +199,9 @@ ETA: cuando esté listo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&text_color=a78bfa&icon_color=6d28d9&bg_color=0a0a0a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cortsito&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&text_color=a78bfa&icon_color=6d28d9&bg_color=0a0a0a)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=a78bfa&bg_color=0a0a0a&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cortsito&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=a78bfa&bg_color=0a0a0a&langs_count=8)
 
 </div>
 
@@ -276,6 +276,6 @@ class Builder:
 "No acumulo herramientas. Entiendo sistemas."
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USERNAME&style=flat-square&color=7C3AED&label=visitas)
+![Visitor Count](https://komarev.com/ghpvc/?username=cortsito&style=flat-square&color=7C3AED&label=visitas)
 
 </div>
