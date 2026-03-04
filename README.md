@@ -30,7 +30,7 @@
 
 <div align="center">
 
-|-|-|
+|||
 |---|---|
 | **handle** | `cortsito` |
 | **rol** | arquitecto técnico · team lead |
