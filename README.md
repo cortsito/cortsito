@@ -15,22 +15,18 @@
 ╚██████╗╚██████╔╝██║  ██║   ██║   ███████║██║   ██║   ╚██████╔╝
  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝   ╚═╝    ╚═════╝
 ```
-<br/>
 
 *Constructor de sistemas en la intersección de producto, datos e infraestructura.*
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=10B981&center=true&vCenter=true&width=640&lines=Full-Stack+%2F%2F+AI+%26+Data+%2F%2F+Blockchain+%2F%2F+Infra;20%25+de+los+conceptos+que+desbloquean+el+80%25+del+sistema;Neo-pol%C3%ADmata+en+construcci%C3%B3n+activa;Build+first.+Understand+deeper.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
-
 ---
-
-<br/>
-
 
 <div align="center">
 
-|||
+| | |
 |---|---|
 | **handle** | `cortsito` |
 | **rol** | arquitecto técnico · team lead |
@@ -40,174 +36,76 @@
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## `[ 01 ]` — MÓDULOS DE INGENIERÍA
+## `[ 01 ]` — STACK
 
 <br/>
 
-<details>
-<summary><code>▸ 02 · full-stack</code></summary>
-
-<br/>
-
-**Frontend**
+**`full-stack`**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=10b981)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=34d399)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=10b981)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=34d399)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=6ee7b7)
-
-**Backend**
-
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=34d399)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=10b981)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=34d399)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=10b981)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=34d399)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=6ee7b7)
-
-**Bases de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=10b981)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=34d399)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=10b981)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=34d399)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=10b981)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=34d399)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=6ee7b7)
 
-<br/>
-
-</details>
-
-<details>
-<summary><code>▸ 03 · ai · datos · ml</code></summary>
-
-<br/>
-
-**Frameworks ML**
+**`ai · datos`**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=10b981)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=34d399)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=10b981)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=34d399)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=6ee7b7)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=34d399)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=10b981)
+![Apache Spark](https://img.shields.io/badge/Spark-0d1117?style=flat-square&logo=apachespark&logoColor=34d399)
+![dbt](https://img.shields.io/badge/dbt-0d1117?style=flat-square&logo=dbt&logoColor=10b981)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=34d399)
+![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=10b981)
 
-**Datos & Ingeniería**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=10b981)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=34d399)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=flat-square&logo=apachespark&logoColor=10b981)
-![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=34d399)
-![dbt](https://img.shields.io/badge/dbt-0d1117?style=flat-square&logo=dbt&logoColor=6ee7b7)
-
-**Ecosistema**
-
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=10b981)
-![W&B](https://img.shields.io/badge/W%26B-0d1117?style=flat-square&logo=weightsandbiases&logoColor=34d399)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=10b981)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=34d399)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=6ee7b7)
-
-<br/>
-
-</details>
-
-<details>
-<summary><code>▸ 04 · blockchain · web3</code></summary>
-
-<br/>
-
-**Smart Contracts**
+**`blockchain · web3`**
 
 ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=10b981)
 ![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=flat-square&logo=hardhat&logoColor=34d399)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-0d1117?style=flat-square&logo=openzeppelin&logoColor=10b981)
-![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=flat-square&logo=ethereum&logoColor=6ee7b7)
-
-**Infraestructura Web3**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=10b981)
 ![ethers.js](https://img.shields.io/badge/ethers.js-0d1117?style=flat-square&logo=ethereum&logoColor=34d399)
-![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=flat-square&logo=ipfs&logoColor=10b981)
-![Chainlink](https://img.shields.io/badge/Chainlink-0d1117?style=flat-square&logo=chainlink&logoColor=34d399)
-![The Graph](https://img.shields.io/badge/The_Graph-0d1117?style=flat-square&logo=thegraph&logoColor=6ee7b7)
+![Chainlink](https://img.shields.io/badge/Chainlink-0d1117?style=flat-square&logo=chainlink&logoColor=10b981)
+`Ethereum` · `Polygon` · `Arbitrum` · `Base`
 
-**Redes**
-
-`Ethereum` · `Polygon` · `Arbitrum` · `Base` · `Avalanche` · `EVM-compatible`
-
-<br/>
-
-</details>
-
-<details>
-<summary><code>▸ 05 · infraestructura · devops</code></summary>
-
-<br/>
-
-**Contenedores & CI/CD**
+**`infra · devops`**
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=10b981)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=34d399)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=10b981)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=34d399)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=6ee7b7)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMTBiOTgxIiBkPSJNNi43NjMgMTAuMDM2YzAgLjI5Ni4wMzIuNTM1LjA4OC43MS4wNjQuMTc2LjE0NC4zNjguMjU2LjU3Ni4wNC4wNjMuMDU2LjEyNy4wNTYuMTgzIDAgLjA4LS4wNDguMTYtLjE1Mi4yNGwtLjUwMy4zMzVhLjM4My4zODMgMCAwIDEtLjIwOC4wNzJjLS4wOCAwLS4xNi0uMDQtLjIzOS0uMTEyYTIuNDcgMi40NyAwIDAgMS0uMjg3LS4zNzUgNi4xOCA2LjE4IDAgMCAxLS4yNDgtLjQ3MWMtLjYyMi43MzQtMS40MDUgMS4xMDEtMi4zNDcgMS4xMDEtLjY3IDAtMS4yMDUtLjE5MS0xLjU5Ni0uNTc0LS4zOTEtLjM4NC0uNTktLjg5NC0uNTktMS41MzMgMC0uNjc4LjIzOS0xLjIzLjcyNi0xLjY0NC40ODctLjQxNSAxLjEzMy0uNjIzIDEuOTU1LS42MjMuMjcyIDAgLjU1MS4wMjQuODQ2LjA2NC4yOTYuMDQuNi4xMDQuOTE4LjE3NnYtLjU4M2MwLS42MDctLjEyNy0xLjAzLS4zNzUtMS4yNzctLjI1NS0uMjQ4LS42ODYtLjM2Ny0xLjMtLjM2N2MtLjI4IDAtLjU2OC4wMzEtLjg2My4xMDMtLjI5NS4wNzItLjU4My4xNi0uODYyLjI3MmEyLjI4NyAyLjI4NyAwIDAgMS0uMjguMDk2LjQ4OC40ODggMCAwIDEtLjEyNy4wMjNjLS4xMTIgMC0uMTY4LS4wOC0uMTY4LS4yNDd2LS4zOTFjMC0uMTI4LjAxNi0uMjI0LjA1Ni0uMjhhLjU5Ny41OTcgMCAwIDEgLjIyNC0uMTY3Yy4yNzktLjE0NC42MTQtLjI2NCAxLjAwNS0uMzZhNC44NCA0Ljg0IDAgMCAxIDEuMjQ2LS4xNTFjLjk1IDAgMS42NDQuMjE2IDIuMDkxLjY0Ny40MzkuNDMuNjYyIDEuMDg1LjY2MiAxLjk2M3YyLjU4NnptLTMuMjQgMS4yMTRjLjI2MyAwIC41MzQtLjA0OC44MjItLjE0NC4yODctLjA5Ni41NDMtLjI3MS43NTgtLjUxLjEyOC0uMTUyLjIyNC0uMzIuMjcyLS41MTIuMDQ3LS4xOTEuMDgtLjQyMy4wOC0uNjk0di0uMzM1YTYuNjYgNi42NiAwIDAgMC0uNzM1LS4xMzYgNi4wMiA2LjAyIDAgMCAwLS43NS0uMDQ4Yy0uNTM1IDAtLjkyNi4xMDQtMS4xOS4zMi0uMjYzLjIxNS0uMzkuNTE4LS4zOS45MTcgMCAuMzc1LjA5NS42NTUuMjk1Ljg0Ni4xOTEuMi40NzkuMjk2LjgzOC4yOTZ6bTYuNDEuODYyYy0uMTQ0IDAtLjI0LS4wMjQtLjMwNC0uMDgtLjA2My0uMDQ4LS4xMi0uMTYtLjE2OC0uMzExTDcuNTg2IDUuNTVhMS4zOTggMS4zOTggMCAwIDEtLjA3Mi0uMzJjMC0uMTI4LjA2NC0uMi4xOTEtLjJoLjc4M2MuMTUxIDAgLjI1NS4wMjUuMzEuMDguMDY1LjA0OC4xMTMuMTYuMTYuMzEybDEuMzQyIDUuMjg0IDEuMjQ1LTUuMjg0Yy4wNC0uMTYuMDg4LS4yNjQuMTUxLS4zMTJhLjU0OS41NDkgMCAwIDEgLjMyLS4wOGguNjM4Yy4xNTIgMCAuMjU2LjAyNS4zMi4wOC4wNjMuMDQ4LjEyLjE2LjE1MS4zMTJsMS4yNjEgNS4zNDggMS4zODEtNS4zNDhjLjA0OC0uMTYuMTA0LS4yNjQuMTYtLjMxMmEuNTIuNTIgMCAwIDEgLjMxMS0uMDhoLjc0M2MuMTI3IDAgLjIuMDY1LjIuMiAwIC4wNC0uMDA5LjA4LS4wMTcuMTI4YTEuMTM3IDEuMTM3IDAgMCAxLS4wNTYuMmwtMS45MjMgNi4xN2MtLjA0OC4xNi0uMTA0LjI2My0uMTY4LjMxMWEuNTEuNTEgMCAwIDEtLjMwMy4wOGgtLjY4N2MtLjE1MSAwLS4yNTUtLjAyNC0uMzItLjA4LS4wNjMtLjA1Ni0uMTE5LS4xNi0uMTUtLjMybC0xLjIzOC01LjE0OC0xLjIzIDUuMTRjLS4wNC4xNi0uMDg3LjI2NC0uMTUuMzItLjA2NS4wNTYtLjE3Ny4wOC0uMzIuMDh6Ii8+PC9zdmc+)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=34d399)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=10b981)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=34d399)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=10b981)
 ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=34d399)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=10b981)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=34d399)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=6ee7b7)
-
-**Observabilidad**
-
-`Prometheus` · `Grafana` · `Sentry` · `Datadog` · `ELK Stack`
-
-<br/>
-
-</details>
-
-<br/>
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=10b981)
+`Prometheus` · `Grafana` · `Sentry`
 
 ---
 
-<br/>
-
 ## `[ 02 ]` — STATS
-
-<br/>
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cortsito&theme=transparent&hide_border=true&ring=10b981&fire=34d399&currStreakNum=6ee7b7&currStreakLabel=10b981&sideNums=6ee7b7&sideLabels=10b981&dates=34d399&stroke=10b981)
 
-<br/><br/>
+<br/>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cortsito&theme=github-compact&bg_color=0d1117&color=10b981&line=34d399&point=6ee7b7&hide_border=true" />
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-
 ## `[ 03 ]` — PROYECTO ACTIVO
-
-<br/>
 
 <div align="center">
 
 ### CibusChain
-
 *Infraestructura tecnológica para el rescate de comida preparada en cadenas de fast food.*
 
 <br/>
@@ -227,11 +125,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 
