@@ -26,16 +26,7 @@
 
 <br/>
 
----
-
-<br/>
-
-> next project lands here.
-
-
-<br/>
-
----
+''
 
 <div align="center">
 <br/>
