@@ -14,6 +14,8 @@
 
 <br/>
 
+<div align="center">
+  
 **Web** &nbsp;&nbsp;&nbsp; `TypeScript` `React` `Next.js` `Tailwind` `Node.js`
 
 **Backend** &nbsp;&nbsp;&nbsp; `Python` `FastAPI` `PostgreSQL` `Redis` `Supabase`
@@ -25,6 +27,7 @@
 **Web3** &nbsp;&nbsp;&nbsp; `Solidity` `Hardhat` `ethers.js` `EVM chains`
 
 <br/>
+</div>
 
 
 <div align="center">
