@@ -9,22 +9,21 @@
 
 [cortsito.com](https://cortsito.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cortsito) &nbsp;·&nbsp; [X](https://x.com/cortsito)
 
-<br/>
 </div>
 
 <br/>
 
 <div align="center">
   
-**Web** &nbsp;&nbsp;&nbsp; `TypeScript` `React` `Next.js` `Tailwind` `Node.js`
+**web** &nbsp;&nbsp;&nbsp; `TypeScript` `React` `Next.js` `Tailwind` `Node.js`
 
-**Backend** &nbsp;&nbsp;&nbsp; `Python` `FastAPI` `PostgreSQL` `Redis` `Supabase`
+**backend** &nbsp;&nbsp;&nbsp; `Python` `FastAPI` `PostgreSQL` `Redis` `Supabase`
 
-**Data & AI** &nbsp;&nbsp;&nbsp; `PyTorch` `LangChain` `dbt` `Airflow` `Spark`
+**data & ai** &nbsp;&nbsp;&nbsp; `PyTorch` `LangChain` `dbt` `Airflow` `Spark`
 
-**Infra** &nbsp;&nbsp;&nbsp; `Docker` `Kubernetes` `Terraform` `AWS` `GCP` `Cloudflare`
+**infra** &nbsp;&nbsp;&nbsp; `Docker` `Kubernetes` `Terraform` `AWS` `GCP` `Cloudflare`
 
-**Web3** &nbsp;&nbsp;&nbsp; `Solidity` `Hardhat` `ethers.js` `EVM chains`
+**web3** &nbsp;&nbsp;&nbsp; `Solidity` `Hardhat` `ethers.js` `EVM chains`
 
 <br/>
 </div>
