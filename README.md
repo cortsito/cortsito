@@ -2,7 +2,6 @@
 <br/>
 
 ## luis cortés
-# *ñ*
 
 `product` &nbsp;·&nbsp; `data` &nbsp;·&nbsp; `infrastructure`
 
