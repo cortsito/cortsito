@@ -7,35 +7,12 @@
 
 <br/>
 
-I build systems where these three meet — and I care more about
-understanding how they work than about the tools that make them.
-
-<br/>
-
 [cortsito.com](https://cortsito.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cortsito) &nbsp;·&nbsp; [X](https://x.com/cortsito)
 
 <br/>
 </div>
 
----
-
 <br/>
-
-### `01` &nbsp; Approach
-
-**First principles.** &nbsp;Start from what is actually true, not from what is popular.
-
-**80/20.** &nbsp;Find the small set of concepts that unlocks the rest of the system.
-
-**Build to understand.** &nbsp;Ship it, break it, read the source, ship it again.
-
-<br/>
-
----
-
-<br/>
-
-### `02` &nbsp; Stack
 
 **Web** &nbsp;&nbsp;&nbsp; `TypeScript` `React` `Next.js` `Tailwind` `Node.js`
 
@@ -53,8 +30,6 @@ understanding how they work than about the tools that make them.
 
 <br/>
 
-### `03` &nbsp; Selected work
-
 > Currently between builds. Next project lands here.
 
 
@@ -65,11 +40,11 @@ understanding how they work than about the tools that make them.
 <div align="center">
 <br/>
 
-*I don't collect tools. I learn systems.*
+*yall mf know what time it is*
 
 <br/>
 
-<sub>Open to interesting problems &nbsp;·&nbsp; [get in touch](https://linkedin.com/in/cortsito)</sub>
+<sub>open always. &nbsp;·&nbsp; [get in touch](https://linkedin.com/in/cortsito)</sub>
 
 <br/>
 </div>
