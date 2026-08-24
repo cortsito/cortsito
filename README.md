@@ -26,16 +26,14 @@
 
 <br/>
 
-''
 
 <div align="center">
 <br/>
 
 *yall mfs know what time it is*
 
-<br/>
 
-<sub>open always. &nbsp;·&nbsp; [get in touch](https://linkedin.com/in/cortsito)</sub>
+<sub>always open. &nbsp;·&nbsp; [get in touch](https://linkedin.com/in/cortsito)</sub>
 
 <br/>
 </div>
