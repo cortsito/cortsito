@@ -1,7 +1,8 @@
 <div align="center">
 <br/>
 
-## Luis Cortés
+## luis cortés
+##*ñ*
 
 `product` &nbsp;·&nbsp; `data` &nbsp;·&nbsp; `infrastructure`
 
@@ -30,7 +31,7 @@
 
 <br/>
 
-> Currently between builds. Next project lands here.
+> next project lands here.
 
 
 <br/>
@@ -40,7 +41,7 @@
 <div align="center">
 <br/>
 
-*yall mf know what time it is*
+*yall mfs know what time it is*
 
 <br/>
 
