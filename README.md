@@ -6,7 +6,7 @@
   <img alt="luis cortés — talented · legit · genius" src="assets/header-dark.svg" width="100%">
 </picture>
 
-[cortsito.com](https://cortsito.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cortsito) &nbsp;·&nbsp; [X](https://x.com/cortsito)
+[instagram](https://www.instagram.com/cortsi.to/) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/cortsito) &nbsp;·&nbsp; [twitter](https://x.com/cortsito)
 
 <br/>
 
