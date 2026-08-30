@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-  <img alt="luis cortés — talented · legit genius" src="assets/header-dark.svg" width="100%">
+  <img alt="luis cortés — talented · legit · genius" src="assets/header-dark.svg" width="100%">
 </picture>
 
 [cortsito.com](https://cortsito.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cortsito) &nbsp;·&nbsp; [X](https://x.com/cortsito)
@@ -22,11 +22,6 @@
 
 <br/>
 
-<!--
-  Generated daily by .github/workflows/metrics.yml (lowlighter/metrics).
-  These two files won't exist until the workflow runs once —
-  go to Actions → metrics → "Run workflow" right after you push.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/metrics-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
