@@ -33,7 +33,7 @@
 
 *yo quiero ser pacificado por el aguardiente de tu amor profundo*
 
-<sub>always open. &nbsp;·&nbsp; [get in touch](https://linkedin.com/in/cortsito)</sub>
+<sub>always open. &nbsp;·&nbsp; [get in touch](https://linkedin.com/in/corshex)</sub>
 
 <br/>
 </div>
